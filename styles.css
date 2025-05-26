@@ -22,6 +22,7 @@
 
 h2 {
   font-weight: var(--font-weight-bold);
+  color: var(--slate-900);
 }
 
 p {
